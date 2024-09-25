@@ -1,0 +1,14 @@
+E:\VsStudioCode\算法\反转链表\bin\Debug\net8.0\反转链表.exe
+E:\VsStudioCode\算法\反转链表\bin\Debug\net8.0\反转链表.deps.json
+E:\VsStudioCode\算法\反转链表\bin\Debug\net8.0\反转链表.runtimeconfig.json
+E:\VsStudioCode\算法\反转链表\bin\Debug\net8.0\反转链表.dll
+E:\VsStudioCode\算法\反转链表\bin\Debug\net8.0\反转链表.pdb
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\反转链表.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\反转链表.AssemblyInfoInputs.cache
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\反转链表.AssemblyInfo.cs
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\反转链表.csproj.CoreCompileInputs.cache
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\反转链表.dll
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\refint\反转链表.dll
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\反转链表.pdb
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\反转链表.genruntimeconfig.cache
+E:\VsStudioCode\算法\反转链表\obj\Debug\net8.0\ref\反转链表.dll
