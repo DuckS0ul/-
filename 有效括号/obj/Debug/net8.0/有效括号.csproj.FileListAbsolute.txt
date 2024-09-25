@@ -1,0 +1,14 @@
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\有效括号.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\有效括号.AssemblyInfoInputs.cache
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\有效括号.AssemblyInfo.cs
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\有效括号.csproj.CoreCompileInputs.cache
+E:\VsStudioCode\算法\有效括号\bin\Debug\net8.0\有效括号.exe
+E:\VsStudioCode\算法\有效括号\bin\Debug\net8.0\有效括号.deps.json
+E:\VsStudioCode\算法\有效括号\bin\Debug\net8.0\有效括号.runtimeconfig.json
+E:\VsStudioCode\算法\有效括号\bin\Debug\net8.0\有效括号.dll
+E:\VsStudioCode\算法\有效括号\bin\Debug\net8.0\有效括号.pdb
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\有效括号.dll
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\refint\有效括号.dll
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\有效括号.pdb
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\有效括号.genruntimeconfig.cache
+E:\VsStudioCode\算法\有效括号\obj\Debug\net8.0\ref\有效括号.dll

@@ -1,0 +1,14 @@
+E:\VsStudioCode\算法\移动零\bin\Debug\net8.0\移动零.exe
+E:\VsStudioCode\算法\移动零\bin\Debug\net8.0\移动零.deps.json
+E:\VsStudioCode\算法\移动零\bin\Debug\net8.0\移动零.runtimeconfig.json
+E:\VsStudioCode\算法\移动零\bin\Debug\net8.0\移动零.dll
+E:\VsStudioCode\算法\移动零\bin\Debug\net8.0\移动零.pdb
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\移动零.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\移动零.AssemblyInfoInputs.cache
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\移动零.AssemblyInfo.cs
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\移动零.csproj.CoreCompileInputs.cache
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\移动零.dll
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\refint\移动零.dll
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\移动零.pdb
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\移动零.genruntimeconfig.cache
+E:\VsStudioCode\算法\移动零\obj\Debug\net8.0\ref\移动零.dll
